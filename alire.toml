@@ -1,0 +1,9 @@
+name = "browswer_aws"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Eleni Arganos"]
+maintainers = ["Eleni Arganos <eleni.arganos@mailfence.com>"]
+maintainers-logins = ["github-username"]
+
+executables = ["browswer_aws"]
